@@ -127,7 +127,7 @@ Images -
 
 ### 🔷 Table 
 
-![Table](./screenshots/table.png)
+![Table](./screenshots/tables.png)
 ---
 
 ### 🔷 Add New Customer
