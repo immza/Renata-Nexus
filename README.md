@@ -111,10 +111,6 @@ Images -
 
 ---
 
-### 🔷 Dashboard Overview
-![Overview](./screenshots/overview.png)
----
-
 ### 🔷 Report 
 ![Report1](./screenshots/report1.png)
 ---
